@@ -1,5 +1,7 @@
 {
   "name": "shop-firebase",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
